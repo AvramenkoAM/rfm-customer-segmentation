@@ -2,6 +2,8 @@
 
 Portfolio data analytics project demonstrating customer segmentation using the RFM framework on a synthetic UK-style retail dataset.
 
+![RFM Analytics Dashboard](images/dashboard.png)
+
 ## Business Problem
 
 Marketing budget is limited. The business needs to know which customers deserve a loyalty reward, which are about to churn, and where not to spend money. RFM answers this with three measurable metrics — no ML required.
